@@ -40,6 +40,8 @@ Demonstrate your understanding of this week's concepts by answering the followin
 
 - [ ] Explain the difference between `Relational Databases` and `SQL`.
 
+the Relational Database is the system, and SQL is the language used to interact with the system. In principle you could have a Relational Databases that uses some other language for access, and in principle you could use SQL to interact with some other kind of database system, though in practice the two are closely coupled.
+
 - [ ] Why do tables need a `primary key`?
 
 - [ ] What is the name given to a table column that references the primary key on another table.
